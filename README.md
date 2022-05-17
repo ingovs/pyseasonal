@@ -1,6 +1,6 @@
 # pyseasonal
 
-pyseasonal is a Python library for evaluating presence of seasonality and seasonally adjusting a time series.
+pyseasonal is a Python library for seasonally adjusting a time series and checking seasonality presence.
 
 ## Installation
 
